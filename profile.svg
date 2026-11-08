@@ -1,0 +1,23 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="54" height="55" viewBox="0 0 54 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 1">
+<g id="Vector 1">
+<mask id="stroke0_0_5853">
+<path d="M20.5 33L5.92228 40.2889C3.21201 41.644 1.5 44.4141 1.5 47.4443V55" stroke-width="3" stroke="white"/>
+</mask>
+<g clip-path="url(#paint0_angular_0_5853_clip_path)" data-figma-skip-parse="true" mask="url(#stroke0_0_5853)"><g transform="matrix(0 0.011 -0.0095 0 11 44)"><foreignObject x="-2421.05" y="-2421.05" width="4842.11" height="4842.11"><div xmlns="http://www.w3.org/1999/xhtml" style="background:conic-gradient(from 90deg,rgba(61, 228, 191, 1) 0deg,rgba(71, 207, 247, 1) 360deg);height:100%;width:100%;opacity:1"></div></foreignObject></g></g><path d="M20.5 33L5.92228 40.2889C3.21201 41.644 1.5 44.4141 1.5 47.4443V55" stroke-width="3" stroke="black" stroke-opacity="0" data-figma-gradient-stroke="{&#34;type&#34;:&#34;GRADIENT_ANGULAR&#34;,&#34;stops&#34;:[{&#34;color&#34;:{&#34;r&#34;:0.23921568691730499,&#34;g&#34;:0.89411765336990356,&#34;b&#34;:0.74901962280273438,&#34;a&#34;:1.0},&#34;position&#34;:0.0},{&#34;color&#34;:{&#34;r&#34;:0.27843138575553894,&#34;g&#34;:0.81176471710205078,&#34;b&#34;:0.96862745285034180,&#34;a&#34;:1.0},&#34;position&#34;:1.0}],&#34;transform&#34;:{&#34;m00&#34;:1.1634144702512401e-15,&#34;m01&#34;:-19.0,&#34;m02&#34;:20.50,&#34;m10&#34;:22.0,&#34;m11&#34;:1.3471115643134642e-15,&#34;m12&#34;:33.0},&#34;opacity&#34;:1.0,&#34;blendMode&#34;:&#34;NORMAL&#34;,&#34;stopsVar&#34;:[{&#34;color&#34;:{&#34;r&#34;:0.23921568691730499,&#34;g&#34;:0.89411765336990356,&#34;b&#34;:0.74901962280273438,&#34;a&#34;:1.0},&#34;position&#34;:0.0},{&#34;color&#34;:{&#34;r&#34;:0.27843138575553894,&#34;g&#34;:0.81176471710205078,&#34;b&#34;:0.96862745285034180,&#34;a&#34;:1.0},&#34;position&#34;:1.0}],&#34;visible&#34;:true}"/>
+</g>
+<g id="Vector 2">
+<mask id="stroke1_0_5853">
+<path d="M33.5 33L48.0777 40.2889C50.788 41.644 52.5 44.4141 52.5 47.4443V55" stroke-width="3" stroke="white"/>
+</mask>
+<g clip-path="url(#paint1_angular_0_5853_clip_path)" data-figma-skip-parse="true" mask="url(#stroke1_0_5853)"><g transform="matrix(0 0.011 0.0095 0 43 44)"><foreignObject x="-2421.05" y="-2421.05" width="4842.11" height="4842.11"><div xmlns="http://www.w3.org/1999/xhtml" style="background:conic-gradient(from 90deg,rgba(61, 228, 191, 1) 0deg,rgba(71, 207, 247, 1) 360deg);height:100%;width:100%;opacity:1"></div></foreignObject></g></g><path d="M33.5 33L48.0777 40.2889C50.788 41.644 52.5 44.4141 52.5 47.4443V55" stroke-width="3" stroke="black" stroke-opacity="0" data-figma-gradient-stroke="{&#34;type&#34;:&#34;GRADIENT_ANGULAR&#34;,&#34;stops&#34;:[{&#34;color&#34;:{&#34;r&#34;:0.23921568691730499,&#34;g&#34;:0.89411765336990356,&#34;b&#34;:0.74901962280273438,&#34;a&#34;:1.0},&#34;position&#34;:0.0},{&#34;color&#34;:{&#34;r&#34;:0.27843138575553894,&#34;g&#34;:0.81176471710205078,&#34;b&#34;:0.96862745285034180,&#34;a&#34;:1.0},&#34;position&#34;:1.0}],&#34;transform&#34;:{&#34;m00&#34;:-1.1634144702512401e-15,&#34;m01&#34;:19.0,&#34;m02&#34;:33.50,&#34;m10&#34;:22.0,&#34;m11&#34;:1.3471115643134642e-15,&#34;m12&#34;:33.0},&#34;opacity&#34;:1.0,&#34;blendMode&#34;:&#34;NORMAL&#34;,&#34;stopsVar&#34;:[{&#34;color&#34;:{&#34;r&#34;:0.23921568691730499,&#34;g&#34;:0.89411765336990356,&#34;b&#34;:0.74901962280273438,&#34;a&#34;:1.0},&#34;position&#34;:0.0},{&#34;color&#34;:{&#34;r&#34;:0.27843138575553894,&#34;g&#34;:0.81176471710205078,&#34;b&#34;:0.96862745285034180,&#34;a&#34;:1.0},&#34;position&#34;:1.0}],&#34;visible&#34;:true}"/>
+</g>
+<circle id="Ellipse 2" cx="27.5" cy="18" r="16.5" stroke-width="3" stroke="url(#paint2_linear_0_5853)"/>
+</g>
+<defs>
+<clipPath id="paint0_angular_0_5853_clip_path"><rect x="-12" y="19.6584" width="45.1708" height="47.3416"/></clipPath><clipPath id="paint1_angular_0_5853_clip_path"><rect x="20.8292" y="19.6584" width="45.1708" height="47.3416"/></clipPath><linearGradient id="paint2_linear_0_5853" x1="9.5" y1="18" x2="45.5" y2="18" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3DE4BF"/>
+<stop offset="1" stop-color="#47CFF7"/>
+</linearGradient>
+</defs>
+</svg>
